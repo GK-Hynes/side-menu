@@ -4,10 +4,11 @@ body {
   font-family: "Open Sans", sans-serif;
   background: #f4f4f4;
   overflow: hidden;
+  margin: 0;
 }
 
 .navbar {
-  background: #3b5998;
+  background: #01579b;
   overflow: hidden;
   height: 63px;
 }
